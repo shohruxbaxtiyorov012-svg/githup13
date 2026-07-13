@@ -151,7 +151,7 @@ function App() {
             </div>
 
             <div>
-              <h3 className='font-bold text-gray-900 text-sm mb-2'>Uzum ijtimoiy tarmoqlarda</h3>
+              <h3 className='font-bold text-gray-900 text-sm mb-2'>Uzum ijtimoiy tarmoqlardaa</h3>
               <div className='flex gap-3 text-gray-500'>
                 <FaInstagramSquare className='w-8 h-8 hover:text-pink-600 cursor-pointer transition-colors' />
                 <FaTelegram className='w-8 h-8 hover:text-blue-500 cursor-pointer transition-colors' />
